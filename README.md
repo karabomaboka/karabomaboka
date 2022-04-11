@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/karabomaboka" target="blank"><img src="https://img.shields.io/twitter/follow/karabomaboka?logo=twitter&style=for-the-badge" alt="karabomaboka" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, LINUX**
+- 🌱 I’m currently learning **PHP, Advanced VB.NET, SQL, ORACLE, LINUX**
 
 - 👨‍💻 All of my projects are available at [https://github.com/karabomaboka](https://github.com/karabomaboka)
 
-- 💬 Ask me about **Android , .NET**
+- 💬 Ask me about **Android ,Java ,Kotlin, Javascript, APIs, .NET**
 
 - 📫 How to reach me **karabomaboka@gmail.com**
 
