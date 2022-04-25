@@ -12,7 +12,22 @@ decision structures,
 <li> if-then-else statements,</li>
 <li>compound if statements</li>
 <li> Boolean variables,</li>
-<li> code defensively and do data validation wherever possible.</li></p></h3>
+<li> code defensively and do data validation wherever possible.</li></p><br>
+  <p> I write a nested if statement in pseudocode, write a select case statement in pseudocode, write algorithms containing nested if statements, and select case statements.</p><br>
+  <p>I understand what an array is,
+<li> initialise a one-dimensional array,</li>
+<li> store data in a one-dimensional array,</li>
+<li>manipulate a one-dimensional array, for instance
+<li> display elements in the array,</li>
+<li> and the highest and lowest entries in an array,</li>
+<li> search an array to and a specific element,</li>
+<li>access an element in the array,</li>
+<li> compute the total and average of all the elements in an array,</li>
+<li> understand and use parallel arrays,</li>
+<li> understand and manipulate two-dimensional arrays,</li>
+<li> sort an array using the bubble sort method, and</li>
+<li> sort an array using the selection sort method.</li></p>
+</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
