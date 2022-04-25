@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Karabo Maboka</h1>
-<h3 align="center">An IT Student from South Africa.I read and analyse a problem to understand exactly what it is that needs to be
+<h3 align="center">An IT Student from South Africa.
+  I understand and know the hierarchy of data structures,
+• understand what a variable is,
+• distinguish between data types,
+• distinguish between a variable and a constant,
+• write an assignment statement,
+• understand basic arithmetic operations,
+• use all arithmetic operators, and
+• set up and evaluate expressions and equations using variables, constants,
+operators and the hierarchy of operations.
+  I read and analyse a problem to understand exactly what it is that needs to be
 solved, understand how a computer processes data, name the steps to find an excellent and efficient solution for any problem,
 and understand what an algorithm is and how it is used to solve a simple problem.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
