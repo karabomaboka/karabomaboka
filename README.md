@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karabo Maboka</h1>
-<h3 align="center">A passionate Software development Student from South Africa</h3>
+<h3 align="center">An IT Student from South Africa.I read and analyse a problem to understand exactly what it is that needs to be
+solved, understand how a computer processes data, name the steps to find an excellent and efficient solution for any problem,
+and understand what an algorithm is and how it is used to solve a simple problem.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
