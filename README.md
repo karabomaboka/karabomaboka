@@ -17,7 +17,7 @@ decision structures,
   <p>I understand what an array is, initialise a one-dimensional array,store data in a one-dimensional array,
 manipulate a one-dimensional array, for instance display elements in the array, and the highest and lowest entries in an array,search an array to and a specific element,access an element in the array, compute the total and average of all the elements in an array, understand and use parallel arrays understand and manipulate two-dimensional arrays, sort an array using the bubble sort method, and sort an array using the selection sort method.I understand modules and mudularisation,drawing a hierarchy chart,the purpose and use of value parameters and reference parameters,the use of function procedures, writing a statement to call a function, and writing the corresponding function
 header, statements in the loop and a statement to return an answer,writing functions with and without parameters, the use of subprocedures, writing a statement to call a subprocedure, and writing the corresponding subprocedure header and statements in the subprocedure, and  writing subprocedures with or without parameters,understand the basic concepts of object orientation,understand the importance of encapsulation and information hiding,distinguish the relationships between classes, and follow the basic steps of object oriented design.</p>
-</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
