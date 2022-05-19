@@ -4,10 +4,10 @@
   I read and analyse a problem to understand exactly what it is that needs to be
 solved, understand how a computer processes data, name the steps to find an excellent and efficient solution for any problem,
   and understand what an algorithm is and how it is used to solve a simple problem.</p><br>
-I can identify all available input data and required output, draw an IPO chart for the problem statement, write an algorithm in pseudocode to solve the problem, and test the logic of the algorithm with test data using a trace table, to predict the output and check that it’s correct.<br>
+I can identifyy all available input data and required output, draw an IPO chart for the problem statement, write an algorithm in pseudocode to solve the problem, and test the logic of the algorithm with test data using a trace table, to predict the output and check that it’s correct.<br>
   <p>determine the results of relational conditions, evaluate expressions that contain logical operators, write a simple if statement in pseudocode to test a condition, write an if-then-else statement in pseudocode, prepare test data to test all possible conditions for a program that contains
 decision structures,
-    I write algorithms containing :
+    I write algorithms that  contains :
 <li> simple if statements,</li>
 <li> if-then-else statements,</li>
 <li>compound if statements</li>
