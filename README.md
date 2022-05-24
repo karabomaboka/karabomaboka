@@ -29,7 +29,7 @@ header,statementss in the loop and a statement to return an answer,writing funct
 
 - 👨‍💻 All of my projects are available at [https://github.com/karabomaboka](https://github.com/karabomaboka)
 
-- 💬 Ask me about **Android ,Java ,Kotlin, Javascript, APIs, .NET**
+- 💬 Ask me about **Android ,Java ,Kotlin, Javascript, APIs, .NET and some PHP**
 
 - 📫 How to reach me **karabomaboka@gmail.com**
 
