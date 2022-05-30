@@ -1,19 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karabo Maboka</h1>
-<p>An IT Student from South Africa.
-  I understand and know the hierarchy of data structures, understand what a variable is, distinguish between data types, distinguish between a variable and a constant, write assignment statements, understands basic arithmetic operations,use all arithmetic operators, and set up and evaluate expressions and equations using variables, constants, operators and the hierarchy of operations.
-  I read and analyse a problem to understand exactly what it is that needs to be
-solved, understand how a computer processes data, name the steps to find an excellent and efficient solution for any problem,
-  and understand what an algorithm is and how it is used to solve a simple problem.</p><br>
-I can identifyy all available input data and required output, draw an IPO chart for the problem statement, write an algorithm in pseudocode to solve the problem, and test the logic of the algorithm with test data using a trace table, to predict the output and check that it’s correct.<br>
-  <p>determine the results of relational conditions, evaluate expressions that contain logical operators, write a simple if statement in pseudocode to test a condition, write an if-then-else statement in pseudocode, prepare test data to test all possible conditions for a program that contains
-decision structures,
-    I write algorithms that  contains :
-<li> simple if statements,</li>
-<li> if-then-else statements,</li>
-<li>compound if statements</li>
-<li> Boolean variables,</li>
-<li> code defensively and do data validation wherever possible.</li></p><br>
-  <p> I write a nested if statement in pseudocode, write a select case statement in pseudocode, write algorithms containing nested if statements, and select case statements.</p><br>
+<p>An IT Student from South Africa.</p>
  
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
