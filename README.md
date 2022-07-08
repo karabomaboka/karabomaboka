@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karabo Maboka</h1>
-<p>An IT Student from South Africa.....</p>
+<p>An IT Student from South Africa......</p>
  
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
