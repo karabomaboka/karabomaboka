@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Karabo Maboka</h1>
 <p>A Software Engineer from South Africa......</p>
+- I do the following :
+- Analyze requirements
+- Create software architecture
+- Write, test, and refine code
+- Fix errors and bugs
+- Deploy
+- Evaluate software performance
+- Develop documentation, flowcharts, diagrams, and more
+- Provide support and training
  
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
@@ -10,15 +19,6 @@
 <p align="left"> <a href="https://twitter.com/karabomaboka" target="blank"><img src="https://img.shields.io/twitter/follow/karabomaboka?logo=twitter&style=for-the-badge" alt="karabomaboka" /></a> </p>
 
 - 🌱 I’m currently a Software Engineer
-- I do the following :
-Analyze requirements
-Create software architecture
-Write, test, and refine code
-Fix errors and bugs
-Deploy
-Evaluate software performance
-Develop documentation, flowcharts, diagrams, and more
-Provide support and training
 - **Tech Stack**
 - Back-End: Python, FastAPI, Django
 - Front-End: React.js
