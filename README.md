@@ -20,8 +20,8 @@
 
 - 🌱 I’m currently a Software Engineer
 - **Tech Stack**
-- Back-End: Python, FastAPI, Django
-- Front-End: React.js
+- Back-End: Node.js, Express, Firebase, REST APIs, GraphQL Python, FastAPI, Django
+- Front-End: React.js, Vue.js, Nuxt.js, Svelte
 - Database: SQL, SQLite
 - Docker for containerization
 
